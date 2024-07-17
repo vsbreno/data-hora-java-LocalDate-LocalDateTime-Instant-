@@ -1,1 +1,3 @@
-# Este é um projeto do curso DevSuperior para manipulação com data-hora
+# Como usar data-hora no java
+Projeto do curso "Java COMPLETO" (Udemy) 
+by @acenelio
